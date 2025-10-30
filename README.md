@@ -163,5 +163,27 @@ tramite de visas americanas
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+  <!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gracias por tu interés | Trámite de Visa Americana</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f0f4f8; color: #333; text-align: center; padding: 50px; }
+    h1 { color: #0ea5a4; font-size: 2em; }
+    p { font-size: 1.2em; margin-top: 20px; }
+    .cta { display: inline-block; padding: 10px 20px; background-color: #0ea5a4; color: white; border-radius: 5px; text-decoration: none; margin-top: 20px; }
+    .cta:hover { background-color: #14b8a6; }
+  </style>
+</head>
+<body>
+  <h1>¡Gracias por tu interés en nuestros servicios de visa!</h1>
+  <p>Tu solicitud ha sido recibida con éxito. Nos pondremos en contacto contigo en breve para comenzar con el proceso.</p>
+  <p>Si tienes alguna pregunta adicional, no dudes en <a href="mailto:rtb131186@hotmail.com">enviar un correo electrónico</a> o chatear con nosotros por WhatsApp.</p>
+  <a href="https://wa.me/528122965898" class="cta" target="_blank" rel="noopener">Chatear por WhatsApp</a>
+</body>
+</html>
+
 </body>
 </html>
